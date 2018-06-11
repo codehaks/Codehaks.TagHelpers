@@ -8,6 +8,9 @@
     <PackageTags>ASP.NET Core,TagHelpers,Bootstrap,Pagination,Alert</PackageTags>
     <PackageReleaseNotes>First version</PackageReleaseNotes>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/codehaks/Codehaks.TagHelpers</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/codehaks/Codehaks.TagHelpers</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>

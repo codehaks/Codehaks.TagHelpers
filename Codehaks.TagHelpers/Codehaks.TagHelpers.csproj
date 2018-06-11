@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>Bootstrap Tag Helpers for ASP.NET Core 2.1 and later</Description>
+    <Copyright>MIT</Copyright>
+    <PackageIconUrl>https://raw.githubusercontent.com/codehaks/public/master/logo_bg.png</PackageIconUrl>
+    <PackageTags>ASP.NET Core,TagHelpers,Bootstrap,Pagination,Alert</PackageTags>
+    <PackageReleaseNotes>First version</PackageReleaseNotes>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.0" />
+  </ItemGroup>
+
+</Project>

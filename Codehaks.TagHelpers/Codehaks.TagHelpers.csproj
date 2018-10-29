@@ -6,11 +6,13 @@
     <Copyright>MIT</Copyright>
     <PackageIconUrl>https://raw.githubusercontent.com/codehaks/public/master/logo_bg.png</PackageIconUrl>
     <PackageTags>ASP.NET Core,TagHelpers,Bootstrap,Pagination,Alert</PackageTags>
-    <PackageReleaseNotes>First version</PackageReleaseNotes>
+    <PackageReleaseNotes>Stars TagHelper added.</PackageReleaseNotes>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/codehaks/Codehaks.TagHelpers</PackageProjectUrl>
     <RepositoryUrl>https://github.com/codehaks/Codehaks.TagHelpers</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

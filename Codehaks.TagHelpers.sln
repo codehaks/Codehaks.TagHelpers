@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samples", "MyApp\MyApp\Samp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{2A8349D1-A033-4E96-A68C-A7A053CB779C}"
 	ProjectSection(SolutionItems) = preProject
-		docs\samples.png = docs\samples.png
+		docs\samples-alerts.png = docs\samples-alerts.png
+		docs\samples-stars.png = docs\samples-stars.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83A0DAB1-D2FB-49B4-9655-F96D1E861523}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global

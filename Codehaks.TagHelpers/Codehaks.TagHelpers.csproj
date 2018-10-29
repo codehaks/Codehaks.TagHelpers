@@ -1,8 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <Description>Bootstrap Tag Helpers for ASP.NET Core 2.1 and later</Description>
+    <Description>Tag Helpers for ASP.NET Core 2.1 and later</Description>
     <Copyright>MIT</Copyright>
     <PackageIconUrl>https://raw.githubusercontent.com/codehaks/public/master/logo_bg.png</PackageIconUrl>
     <PackageTags>ASP.NET Core,TagHelpers,Bootstrap,Pagination,Alert</PackageTags>

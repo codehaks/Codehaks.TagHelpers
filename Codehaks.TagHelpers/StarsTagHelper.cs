@@ -8,10 +8,10 @@ namespace Codehaks.TagHelpers
         {
             Count = 5;
             ActiveClass = "fa fa-star";
-            ActiveStyle = "color:#ffd800";
+            ActiveStyle = "color:gold";
 
             DeActiveClass = "fa fa-star-o";
-            DeActiveStyle = "";
+            DeActiveStyle = "color:gray";
 
         }
         public int Level { get; set; }

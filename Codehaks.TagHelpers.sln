@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codehaks.TagHelpers", "Code
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samples", "MyApp\MyApp\Samples.csproj", "{3DF8039B-D8DE-444F-8654-9A6CE906D42F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{2A8349D1-A033-4E96-A68C-A7A053CB779C}"
+	ProjectSection(SolutionItems) = preProject
+		docs\samples.png = docs\samples.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -3,7 +3,17 @@
 This package has two fully working Tag Helpers for ASP.NET Core 2.1
 
 ### Instalation
+install using nuget :
+~~~code
+PM > Install-Package Codehaks.TagHelpers -Version 1.1.0 
+~~~
 
+also you need to reference Codehaks.TagHelpers in you view or _viewImports.cshtml 
+~~~csharp
+@addTagHelper *, Codehaks.TagHelpers
+~~~
+
+you can download sample project to see it in action.
 
 
 ### Alert Tag Heper

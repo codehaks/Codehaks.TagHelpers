@@ -60,10 +60,3 @@ de-active-class | same as active-class for deactive stars
 de-active-style | same as active-style for deactive stars
 
 ![alt text](https://github.com/codehaks/Codehaks.TagHelpers/raw/master/docs/samples-stars.png "Logo Title Text 1")
-
-Hope you enjoy using.
-
-
-
-
-
